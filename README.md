@@ -1,6 +1,6 @@
-# Stars Coding Challenge 4: Vegetation Health on the Gila River
+# Short Course Coding Challenge 1: Climate Change in Pakistan
 
-In 2004, the Akimel O’otham and Tohono O’odham tribes won a water rights settlement in the US Supreme Court. Using satellite imagery, we can see the effects of irrigation water on the local vegetation.
+Higher highs, lower lows, storms, and smoke -- we're all feeling the effects of climate change. In this workflow, you will take a look at trends in temperature over time in Pakistan.
 
 You can find demo videos, further reading, and solution code online in the [ESIIL Learning Portal Stars Textbook](https://cu-esiil-edu.github.io/esiil-learning-portal/notebooks/01-climate/climate-shortcourse.html)
 
